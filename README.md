@@ -4,9 +4,13 @@
 
 ### About me
 
-I'm a {frontend and mobile} developer from Brazil.
+💻 - I'm a {frontend and mobile} developer.
+🌎 - Living in Salvador and currently working remotely.
+🐱 - I'm a cat person.
+☕ - Addicted to coffee.
+🎮 - TW, Zelda, TLOU and GTA are my favorite game franchises.
 
-- 💻 [Portfolio](https://rebecadeveloper.netlify.app/)
+💻 - [Portfolio](https://rebecadeveloper.netlify.app/)
 
 ### Skills
 
