@@ -4,11 +4,11 @@
 
 ### About me
 
-- 💻 I'm a {frontend and mobile} developer.
-- 🌎 Living in Salvador and currently working remotely.
-- 🐱 I'm a cat person.
-- ☕ Addicted to coffee.
-- 🎮 TW, Zelda, TLOU and GTA are my favorite game franchises.
+- 💻  I'm a {frontend and mobile} developer.
+- 🌎  Living in Salvador and currently working remotely.
+- 🐱  I'm a cat person.
+- ☕   Addicted to coffee.
+- 🎮  TW, Zelda, TLOU and GTA are my favorite game franchises.
 
 💻 - [Portfolio](https://rebecadeveloper.netlify.app/)
 
@@ -19,6 +19,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+ <img align="left" alt="Next js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
