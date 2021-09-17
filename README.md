@@ -29,12 +29,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rebecagrn&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
+<div>
+<img height"180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rebecagrn&hide_border=green&show_icons=true&theme=tokyonight&include_all_commits=true&count"/>
+<img height"180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecagrn&hide_border=blue&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
