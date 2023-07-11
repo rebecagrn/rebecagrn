@@ -28,10 +28,3 @@
 
 <br />
 <br />
-
----
-
-#### 📈 My GitHub Stats:
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rebecagrn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" align="left" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecagrn&layout=compact&theme=dark)](https://github.com/rebecagrn/github-readme-stats)
