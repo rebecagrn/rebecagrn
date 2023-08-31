@@ -4,7 +4,7 @@
 
 ### About me
 
-- 💻  I'm a {frontend and mobile} developer.
+- 💻  I'm a {frontend, backend and mobile} developer.
 - 🌎  Living in Salvador and currently working remotely.
 - 🐱  I'm a cat person.
 - ☕   Addicted to coffee.
