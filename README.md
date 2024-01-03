@@ -1,5 +1,7 @@
 # Hi, my name is Rebeca! :D
 
+### Contact me
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecagrn/)](https://www.linkedin.com/in/rebecagrn/)
 
 ### About me
@@ -9,6 +11,8 @@
 - 🐱  I'm a cat person.
 - ☕   Addicted to coffee.
 - 🎮  TW, Zelda, TLOU and GTA are my favorite game franchises.
+
+### Website
 
 💻 - [Portfolio](https://rebecadeveloper.netlify.app/)
 
