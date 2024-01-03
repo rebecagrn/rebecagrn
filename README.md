@@ -19,7 +19,7 @@
 
 ### Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,sass,styledcomponents,tailwind,vite,ts,react,nextjs,astro,wordpress,nodejs,nestjs,graphql,figma,md,vscode,mysql,postgres,mongodb,firebase,vercel,aws,supabase,php,laravel,nginx,docker,cloudflare&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,sass,styledcomponents,tailwind,vite,ts,react,nextjs,nodejs,nestjs,graphql,astro,wordpress,figma,md,vscode,mysql,postgres,mongodb,firebase,vercel,aws,supabase,php,laravel,nginx,docker,cloudflare&perline=8)](https://skillicons.dev)
 
 
 <br />
